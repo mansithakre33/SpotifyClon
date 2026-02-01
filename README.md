@@ -1,2 +1,2 @@
 # SpotifyClon
-Spotify CSS Clone is a frontend UI project that replicates the look and feel of Spotify’s interface using pure HTML and CSS. This project was created to strengthen CSS skills such as layout structuring, responsiveness, and modern styling technique
+This project is a frontend Spotify Clone developed using HTML, CSS, and JavaScript. It replicates the basic user interface and functionality of the Spotify web player. The application allows users to interact with a music playlist, control playback, and navigate tracks with a smooth and responsive user experience. The project focuses on strengthening core frontend concepts such as layout design, styling, and JavaScript-based DOM manipulation.
