@@ -1,2 +1,3 @@
 # SpotifyClon
 This project is a frontend Spotify Clone developed using HTML, CSS, and JavaScript. It replicates the basic user interface and functionality of the Spotify web player. The application allows users to interact with a music playlist, control playback, and navigate tracks with a smooth and responsive user experience. The project focuses on strengthening core frontend concepts such as layout design, styling, and JavaScript-based DOM manipulation.
+<img width="1840" height="933" alt="Screenshot 2026-02-01 124812" src="https://github.com/user-attachments/assets/348a15bd-bff3-4eab-8dfe-b0dc7f11e1e5" />
